@@ -2,7 +2,7 @@
 # Inventory application System
 The project description 
 This application is an app which is help the logistic officer to control and monitoring 
-the inputs and outputs of the materials where are safe on the warehouse.The proper of the application
+the inputs and outputs of the materials where are save on the warehouse.The proper of the application
 has the menus as listed bellow:
 1.search employer menu
 2.search product menu by category
